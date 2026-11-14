@@ -198,4 +198,4 @@ This repository serves as the official landing page for Space Sergeant Survivors
 **Get the most recent version of Space Sergeant Survivors today!**
 
 ---
-**Last updated:** 2026-11-13 20:13:58 UTC
+**Last updated:** 2026-11-14 01:10:24 UTC
